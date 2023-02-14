@@ -8,7 +8,7 @@ public class CSC229_ClassLab03 {
 
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
-       //created an array
+       //here I created an array
        int[] arr = {55,7,20,4,88,44};
     }
     
