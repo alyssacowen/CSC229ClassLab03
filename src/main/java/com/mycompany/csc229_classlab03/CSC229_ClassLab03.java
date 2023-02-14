@@ -10,6 +10,8 @@ public class CSC229_ClassLab03 {
        Scanner sc = new Scanner(System.in);
        //here I created an array
        int[] arr = {55,7,20,4,88,44};
+       //here I called my arraySort method
+       arraySort(arr);
     }
     //here I created a method to sort the array (chose bubble sort)
     public static void arraySort(int[] arr){
